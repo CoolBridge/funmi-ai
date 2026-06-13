@@ -15,6 +15,27 @@ complex, country-specific licensing requirements. The process is
 fragmented, expensive, and overwhelming — causing delays of 1-2 years 
 and millions in lost healthcare workforce capacity.
 
+
+
+---
+
+## 🤖 Multi-Agent Architecture
+
+| Agent | Role |
+|---|---|
+| Assessment Agent | Scores nurse readiness across 3 countries |
+| Decision Agent | Recommends optimal pathway with confidence rating |
+| Study Plan Agent | Generates personalized 8-week plan via Azure OpenAI |
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** Streamlit
+- **AI:** Azure OpenAI (GPT-4o)
+- **Knowledge Base:** Microsoft Foundry IQ
+- **Language:** Python 3.12
+- **Agents:** Custom multi-agent architecture
+
 ## 💡 Solution
 Funmi AI is a multi-agent intelligence platform that:
 - Assesses a nurse's readiness score for UK, USA, and Canada
@@ -78,3 +99,8 @@ streamlit run app.py
 ## 👩‍💻 Built By
 **Funmi AI Team**  
 Microsoft Reactor Agents League Hackathon 2026
+
+
+
+
+
