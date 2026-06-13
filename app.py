@@ -35,7 +35,7 @@ if 'quiz_submitted' not in st.session_state:
 # --- HEADER ---
 st.title("🏥 Funmi AI")
 st.subheader("Global Nursing Career & Migration Assistant")
-st.markdown("*Helping nurses find the fastest path to international licensure*")
+st.markdown("*An AI-powered nursing career coach that helps nurses assess eligibility, prepare for licensing exams, and build personalized migration pathways for countries such as the UK, USA, and Canada.*")
 st.divider()
 
 # --- SIDEBAR PROGRESS ---
