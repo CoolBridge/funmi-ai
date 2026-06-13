@@ -12,7 +12,7 @@ Powered by Azure OpenAI + Microsoft Foundry
 ## 🎯 Problem
 Over 1 million internationally educated nurses struggle to navigate 
 complex, country-specific licensing requirements. The process is 
-fragmented, expensive, and overwhelming — causing delays of 1-2 years 
+fragmented, expensive, and overwhelming, causing delays of 1-2 years 
 and millions in lost healthcare workforce capacity.
 
 
