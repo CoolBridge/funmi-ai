@@ -34,7 +34,7 @@ if 'quiz_submitted' not in st.session_state:
 
 # --- HEADER ---
 st.title("🏥 Funmi AI")
-st.subheader("Healthcare Workforce Mobility Intelligence Platform")
+st.subheader("Global Nursing Career & Migration Assistant")
 st.markdown("*Helping nurses find the fastest path to international licensure*")
 st.divider()
 
